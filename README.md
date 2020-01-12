@@ -3,5 +3,3 @@
 - Python
 - Pip
 - Mkdocs
-- NodeJs
-- Netlify-cli
