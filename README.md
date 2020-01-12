@@ -2,4 +2,4 @@
 
 - Python
 - Pip
-- Mkdocs
+- Mkdocs & Material
